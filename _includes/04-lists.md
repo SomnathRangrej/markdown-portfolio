@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Skills:
+1. Scripting
+2. Version Control
+3. Testing
